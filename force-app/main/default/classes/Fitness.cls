@@ -1,5 +1,5 @@
 public class Fitness {
- 
+ //added a comment for demo
     public Decimal BMI(Decimal weight,Decimal height)
     {
         Decimal BMI;
