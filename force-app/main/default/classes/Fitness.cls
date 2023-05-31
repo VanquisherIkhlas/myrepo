@@ -1,10 +1,10 @@
 public class Fitness {
  //added a comment for demo
-    public Decimal BMI(Decimal weight,Decimal height)
+    public Decimal BMI(Decimal weights,Decimal height)
     {
         Decimal BMI;
        // Decimal square= height*height;
-        BMI=weight/(height*height);
+        BMI=weights/(height*height);
         
         return BMI;
     }
